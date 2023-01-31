@@ -1,4 +1,4 @@
-import { exo2, exo3, exo5BrutForce, exo5Dicho } from '../components/boucle';
+import { exo2, exo3, exo5BrutForce, exo5Dicho } from '../components/(2) algorithmie/boucle';
 
 describe('BOUCLES : EXO2', () => {
     test(`3 should return C'est un nombre, positif et non décimal`, () => {

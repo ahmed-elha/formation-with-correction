@@ -2,7 +2,7 @@
   "name": "algo-exercises",
   "version": "1.0.0",
   "description": "",
-  "main": "components/boucle.ts",
+  "main": "components/(2) algorithmie/boucle.ts",
   "scripts": {
     "test": "jest",
     "start": "ts-node components/(6) POO3/index.ts ",
