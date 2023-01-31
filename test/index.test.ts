@@ -1,9 +1,9 @@
-import { Eleve } from '../components/POO2/exo1/Eleve';
-import { Matiere } from '../components/POO2/exo1/Matiere';
-import { MatiereEnum } from '../components/POO2/exo1/MatiereEnum';
-import { Note } from '../components/POO2/exo1/Note';
+import { Eleve } from '../components/(5) POO2/exo1/Eleve';
+import { Matiere } from '../components/(5) POO2/exo1/Matiere';
+import { MatiereEnum } from '../components/(5) POO2/exo1/MatiereEnum';
+import { Note } from '../components/(5) POO2/exo1/Note';
 
-describe('POO2 : EXO1', () => {
+describe('(5) POO2 : EXO1', () => {
     const eleve = new Eleve('Jeandu', 'Michel', [new Matiere(MatiereEnum.MATH, [])]);
     test('Create a student', () => {
         expect(eleve.nom).toBe('Jeandu');

@@ -1,7 +1,7 @@
-import {CalculUtil} from "../components/algorithmie/CalculUtil";
-import {ChaineUtil} from "../components/algorithmie/ChaineUtil";
-import {Recherche} from "../components/algorithmie/Recherche";
-import {Tri} from "../components/algorithmie/Tri";
+import {CalculUtil} from "../components/(2) algorithmie/CalculUtil";
+import {ChaineUtil} from "../components/(2) algorithmie/ChaineUtil";
+import {Recherche} from "../components/(2) algorithmie/Recherche";
+import {Tri} from "../components/(2) algorithmie/Tri";
 
 describe('ALGO : EXO 1', () => {
     test('Min function between 1 and 3 should return 1', () => {

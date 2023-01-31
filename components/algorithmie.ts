@@ -1,7 +1,7 @@
-import {CalculUtil} from "./algorithmie/CalculUtil";
-import {ChaineUtil} from "./algorithmie/ChaineUtil";
-import {Recherche} from "./algorithmie/Recherche";
-import {Tri} from "./algorithmie/Tri";
+import {CalculUtil} from "./(2) algorithmie/CalculUtil";
+import {ChaineUtil} from "./(2) algorithmie/ChaineUtil";
+import {Recherche} from "./(2) algorithmie/Recherche";
+import {Tri} from "./(2) algorithmie/Tri";
 
 /*
  * Créer une classe CalculUtil qui aura trois méthodes
